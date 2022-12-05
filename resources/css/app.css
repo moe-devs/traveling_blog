@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.background{
+    background-image: url('https://cdn.pixabay.com/photo/2020/11/06/15/33/woman-5718089_1280.jpg') ;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
